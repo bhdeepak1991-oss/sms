@@ -1,7 +1,7 @@
-import React from 'react';
+import React from "react";
 
 const FooterComponent = () => {
-    return (
+  return (
     <footer className="main-footer">
       <div className="pull-right hidden-xs">
         <b>Version</b> 2.0
@@ -12,7 +12,7 @@ const FooterComponent = () => {
       </strong>{" "}
       All rights reserved.
     </footer>
-    );
-}
+  );
+};
 
 export default FooterComponent;
